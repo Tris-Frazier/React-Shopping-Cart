@@ -1,8 +1,8 @@
 # React-Shopping-Cart
-Reach Shopping Cart List
+Reach Shopping Cart
 
 # Description
-This simple React program contains a shopping cart list that only renders items with 2 or more quanities in stock to the DOM.
+This simple React program contains a list of items that can be added to the shopping cart.
 
 
 # How to Run
