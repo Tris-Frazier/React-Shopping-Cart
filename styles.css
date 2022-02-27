@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  font-family: "Courier Prime", monospace;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+code {
+  font-family: "Courier Prime", monospace;
+}
+
+.cart-list {
+  background: #e8e8e8;
+  border-radius: 4px;
+  padding: 5px;
+  max-width: 400px;
+  margin: auto;
+}
+
+li {
+  background: #fff;
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.15);
+  padding: 3px 10px;
+  font-size: 24px;
+  margin-bottom: 6px;
+  border-radius: 3px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
