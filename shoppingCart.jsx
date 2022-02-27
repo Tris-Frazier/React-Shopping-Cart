@@ -24,7 +24,7 @@ function NavBar({ stockitems }) {
   });
 
   const updatedCart = cart.map((item, index) => {
-    return <Button key={index}>{item.name}</Button>;
+    return <li key={index}>{item.name}</li>;
   });
 
   return (
